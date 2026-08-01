@@ -1,7 +1,8 @@
-1.0.5~beta+py3
+1.0.6~beta+py3
 --------------
 + Add Unwatched / Watched / Favorite / Continue Watching filters to media listings
 + Add Favorites entry to the main menu showing all favorite items
++ Animated GIF preview thumbnails (use local .gif proxy so Kodi animates them)
 + Use Kodi-valid version notation (1.0.3~beta+py3) to fix install crash
 + Fix empty Favorites list (remove IncludeItemTypes restriction)
 + Show Filters entry on all media listings including home videos/mixed
