@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <addons>
-  <addon id="plugin.video.jellycon" name="JellyCon" version="1.0.6~beta+py3" provider-name="Jellyfin Contributors">
+  <addon id="plugin.video.jellycon" name="JellyCon" version="1.0.7~beta+py3" provider-name="Jellyfin Contributors">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
       <import addon="script.module.requests" version="2.22.0+matrix.1" />
