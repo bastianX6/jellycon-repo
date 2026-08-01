@@ -1,5 +1,6 @@
-1.0.9~beta+py3
+1.0.10~beta+py3
 --------------
++ Download GIF previews synchronously when opening a folder (reuses already-downloaded GIFs)
 + Add lazy local GIF cache for animated thumbnails (downloaded when folder is opened)
 + Fix addon startup crash caused by circular import
 + Fix GIF proxy authentication (include image Tag in proxy URL)
