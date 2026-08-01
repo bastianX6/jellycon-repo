@@ -1,5 +1,6 @@
-1.0.8~beta+py3
+1.0.9~beta+py3
 --------------
++ Add lazy local GIF cache for animated thumbnails (downloaded when folder is opened)
 + Fix addon startup crash caused by circular import
 + Fix GIF proxy authentication (include image Tag in proxy URL)
 + Add Unwatched / Watched / Favorite / Continue Watching filters to media listings
