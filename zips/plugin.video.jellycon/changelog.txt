@@ -1,0 +1,4 @@
+1.0.3-beta+py3
+--------------
++ Add Unwatched / Watched / Favorite / Continue Watching filters to media listings
++ Add Favorites entry to the main menu showing all favorite items
